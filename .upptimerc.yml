@@ -12,6 +12,7 @@ sites:
       - 200
       - 401
 status-website:
-  cname: status.frustrator.ru
+  cname: uptime.frustrator.ru
   name: Frustrator Status
   description: Мониторинг серверов
+  theme: dark
