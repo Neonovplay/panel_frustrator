@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+:root {
+  --body-background-color: #0b0b10;
+  --body-text-color: #e0e0f0;
+  --card-background-color: #13131e;
+  --card-border-color: #222233;
+  --nav-background-color: #0b0b10;
+  --nav-border-bottom-color: #222233;
+  --nav-color: #e0e0f0;
+  --link-color: #6c63ff;
+  --text-color: #e0e0f0;
+  --muted-color: #555570;
+  --success-color: #3ddc84;
+  --danger-color: #ff5555;
+  --warning-color: #ffd166;
+  --font-family: 'JetBrains Mono', monospace;
+}
+
+body { font-family: var(--font-family) !important; letter-spacing: 0.03em; }
+h1, h2, h3 { text-transform: uppercase; letter-spacing: 0.15em; }
