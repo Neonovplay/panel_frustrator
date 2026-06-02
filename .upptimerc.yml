@@ -3,6 +3,9 @@ repo: panel_frustrator
 sites:
   - name: VPN Panel
     url: https://panel.frustrator.ru
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: VPN Server
     url: https://panel.frustrator.ru
     expectedStatusCodes:
