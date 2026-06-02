@@ -11,3 +11,4 @@ status-website:
   name: Frustrator Status
   description: Мониторинг серверов
   theme: dark
+  logoUrl: https://raw.githubusercontent.com/Neonovplay/panel_frustrator/master/assets/upptime-icon.svg
