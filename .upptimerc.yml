@@ -14,10 +14,6 @@ sites:
     check: tcp-ping
     url: 91.108.248.129
     port: 22
-  - name: AmneziaWG
-    check: tcp-ping
-    url: 91.108.248.129
-    port: 51820
 status-website:
   cname: uptime.frustrator.ru
   name: Frustrator Status
