@@ -1,40 +1,22 @@
 [
   {
     "name": "VPN Panel",
-    "url": "https://panel.frustrator.ru",
-    "icon": "https://icons.duckduckgo.com/ip3/panel.frustrator.ru.ico",
+    "url": "https://vpn.frustrator.ru",
+    "icon": "https://icons.duckduckgo.com/ip3/vpn.frustrator.ru.ico",
     "slug": "vpn-panel",
     "status": "up",
-    "uptime": "1.07%",
-    "uptimeDay": "1.07%",
-    "uptimeWeek": "1.07%",
-    "uptimeMonth": "1.07%",
-    "uptimeYear": "1.07%",
-    "time": 623,
-    "timeDay": 623,
-    "timeWeek": 623,
-    "timeMonth": 623,
-    "timeYear": 623,
+    "uptime": "2.22%",
+    "uptimeDay": "2.22%",
+    "uptimeWeek": "2.22%",
+    "uptimeMonth": "2.22%",
+    "uptimeYear": "2.22%",
+    "time": 1515,
+    "timeDay": 1515,
+    "timeWeek": 1515,
+    "timeMonth": 1515,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2026-06-02": 865
     }
-  },
-  {
-    "name": "VPN Server",
-    "url": "https://panel.frustrator.ru",
-    "icon": "https://icons.duckduckgo.com/ip3/panel.frustrator.ru.ico",
-    "slug": "vpn-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 496,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 496,
-    "dailyMinutesDown": {}
   }
 ]
