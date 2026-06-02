@@ -3,21 +3,26 @@ name: Deploy Custom Status Page
 on:
   push:
     branches: [master]
-  schedule:
-    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Copy status page
-        run: cp status-page.html index.html
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
-          publish_branch: gh-pages
-          keep_files: true
+          ref: gh-pages
+
+      - name: Download status page
+        run: |
+          curl -o index.html https://raw.githubusercontent.com/Neonovplay/panel_frustrator/master/status-page.html
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add index.html
+          git diff --staged --quiet || git commit -m "Update custom status page"
+          git push
