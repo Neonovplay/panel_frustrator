@@ -15,4 +15,4 @@ status-website:
   cname: uptime.frustrator.ru
   name: Frustrator Status
   description: Мониторинг серверов
-  theme: dark
+  themeUrl: https://uptime.frustrator.ru/theme.css
