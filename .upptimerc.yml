@@ -6,8 +6,20 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: VPN Panel Login
+    url: https://vpn.frustrator.ru/login
+    expectedStatusCodes:
+      - 200
+  - name: SSH
+    check: tcp-ping
+    url: 91.108.248.129
+    port: 22
+  - name: AmneziaWG
+    check: tcp-ping
+    url: 91.108.248.129
+    port: 51820
 status-website:
   cname: uptime.frustrator.ru
   name: Frustrator Status
   description: Мониторинг серверов
-  themeUrl: https://neonovplay.github.io/panel_frustrator/my-custom-theme.css
+  theme: dark
