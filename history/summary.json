@@ -4,21 +4,21 @@
     "url": "https://vpn.frustrator.ru",
     "icon": "https://icons.duckduckgo.com/ip3/vpn.frustrator.ru.ico",
     "slug": "vpn-panel",
-    "status": "down",
-    "uptime": "96.69%",
-    "uptimeDay": "79.02%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "96.69%",
-    "time": 2186,
-    "timeDay": 799,
-    "timeWeek": 2509,
-    "timeMonth": 2186,
-    "timeYear": 2186,
+    "status": "up",
+    "uptime": "96.71%",
+    "uptimeDay": "78.39%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "96.71%",
+    "time": 2278,
+    "timeDay": 3340,
+    "timeWeek": 2847,
+    "timeMonth": 2278,
+    "timeYear": 2278,
     "dailyMinutesDown": {
       "2026-06-02": 865,
       "2026-06-26": 132,
-      "2026-06-29": 302
+      "2026-06-29": 311
     }
   },
   {
@@ -26,10 +26,10 @@
     "url": "https://vpn.frustrator.ru/login",
     "icon": "https://icons.duckduckgo.com/ip3/vpn.frustrator.ru.ico",
     "slug": "vpn-panel-login",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "79.35%",
-    "uptimeWeek": "95.74%",
+    "uptimeDay": "79.06%",
+    "uptimeWeek": "95.70%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "98.88%",
     "time": 487,
@@ -39,7 +39,7 @@
     "timeYear": 487,
     "dailyMinutesDown": {
       "2026-06-26": 132,
-      "2026-06-29": 297
+      "2026-06-29": 301
     }
   },
   {
@@ -47,12 +47,12 @@
     "url": "91.108.248.129",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ssh",
-    "status": "up",
-    "uptime": "99.23%",
+    "status": "down",
+    "uptime": "99.24%",
     "uptimeDay": "79.63%",
     "uptimeWeek": "97.09%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 104,
     "timeDay": 104,
     "timeWeek": 98,
