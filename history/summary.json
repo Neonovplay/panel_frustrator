@@ -4,21 +4,22 @@
     "url": "https://vpn.frustrator.ru",
     "icon": "https://icons.duckduckgo.com/ip3/vpn.frustrator.ru.ico",
     "slug": "vpn-panel",
-    "status": "up",
-    "uptime": "96.71%",
-    "uptimeDay": "78.39%",
-    "uptimeWeek": "95.60%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "96.71%",
+    "status": "down",
+    "uptime": "95.88%",
+    "uptimeDay": "54.43%",
+    "uptimeWeek": "92.18%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "95.88%",
     "time": 2278,
-    "timeDay": 3340,
-    "timeWeek": 2847,
+    "timeDay": 5880,
+    "timeWeek": 2590,
     "timeMonth": 2278,
     "timeYear": 2278,
     "dailyMinutesDown": {
       "2026-06-02": 865,
       "2026-06-26": 132,
-      "2026-06-29": 311
+      "2026-06-29": 531,
+      "2026-06-30": 125
     }
   },
   {
@@ -27,19 +28,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.frustrator.ru.ico",
     "slug": "vpn-panel-login",
     "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "79.06%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.88%",
+    "uptime": "98.01%",
+    "uptimeDay": "55.11%",
+    "uptimeWeek": "92.28%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
     "time": 487,
-    "timeDay": 485,
-    "timeWeek": 450,
+    "timeDay": 575,
+    "timeWeek": 455,
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2026-06-26": 132,
-      "2026-06-29": 301
+      "2026-06-29": 521,
+      "2026-06-30": 125
     }
   },
   {
@@ -48,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ssh",
     "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "79.63%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptime": "98.37%",
+    "uptimeDay": "55.67%",
+    "uptimeWeek": "93.67%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
     "time": 104,
-    "timeDay": 104,
-    "timeWeek": 98,
+    "timeDay": 121,
+    "timeWeek": 99,
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2026-06-29": 293
+      "2026-06-29": 513,
+      "2026-06-30": 125
     }
   }
 ]
